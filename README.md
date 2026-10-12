@@ -38,4 +38,8 @@ The analysis highlighted differences in restaurant ratings and consumer preferen
 ## Recommendations:
 - Survey families, older diners, higher spenders and other cities before generalizing results.
 - Investment in restaurants should be based on medium or high price level, provision of alcohol service, market such as Cuernacava
-- Address demand and supply gaps by optimizing more supply of consumer preferences. 
+- Address demand and supply gaps by optimizing more supply of consumer preferences.
+
+Connect with me on Socials
+[Linkedin](https://www.linkedin.com/in/dabira-adisa-a61484279?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[Github](https://github.com/Dabira218)
